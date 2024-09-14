@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Billiard-prog
 - 👀 I’m interested in Billiard, chess and programming in python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on some cool projects
 - 📫 How to reach me "Bykov.stp@gmail.com"
 - 😄 Pronouns: Russian and English
